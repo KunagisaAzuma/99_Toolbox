@@ -1,0 +1,12 @@
+.venv/
+.idea/
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.DS_Store
+Thumbs.db
+_ffmpeg_dl.zip
+_ffmpeg_extract/
+models/
